@@ -3,3 +3,29 @@
   margin:0;
   padding: 0;
 }
+
+body {
+  background-color: grey;
+}
+
+.banner {
+  width: 100%;
+  height: auto;
+  background-color: white;
+}
+
+h1{
+  display: inline-block;
+    position: relative;
+    bottom: 0.2rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: xxx-large;
+}
+
+.logo {
+  position: relative;
+  top: 0.3rem;
+}
+.logo_scrypt {
+  display: inline-block;
+}
