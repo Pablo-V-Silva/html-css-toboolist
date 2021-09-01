@@ -8,6 +8,10 @@ body {
   background-color: lightgrey;
 }
 
+main {
+  padding: 2rem;
+}
+
 .banner {
   width: 100%;
   height: auto;
@@ -16,9 +20,10 @@ body {
 
 h1{
   display: inline-block;
-    position: relative;
-    bottom: 0.2rem;  
-    font-size: xxx-large;
+  position: relative;
+  bottom: 0.2rem;  
+  font-family: 'Roboto', sans-serif;
+  font-size: xxx-large;
 }
 
 h2 {
@@ -64,6 +69,7 @@ h2 {
 
 .raw{
   border-top: 2px solid lightgrey;
+  padding: 3rem 0rem;
 }
 
 .butt {
@@ -165,4 +171,32 @@ h2 {
 .mobile_scrypt {
   color: white;
   padding: 1rem 0.8rem;
+}
+
+.website {
+  background-color: #D863A1;
+  width: 4.7rem;
+  height: 1.5rem;
+  border-radius: 18px;
+  display: inline-block;
+  padding-top: 3px;
+}
+
+.website_scrypt {
+  color: white;
+  padding: 1rem 0.8rem;
+}
+
+.sales {
+  background-color: #B0C926;
+  width: 4rem;
+  height: 1.5rem;
+  border-radius: 18px;
+  display: inline-block;
+  padding-top: 3px;
+}
+
+.sales_scrypt {
+  color: white;
+  padding: 1rem 0.9rem;
 }
