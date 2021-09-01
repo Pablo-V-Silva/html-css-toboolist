@@ -53,7 +53,7 @@ h1{
 }
 
 .buttons {
-  padding: 1rem;
+  padding: 1rem 0rem;
 }
 
 hr{
@@ -67,3 +67,13 @@ hr{
   font-size: 1.1rem;
 }
 
+.arrow {
+  font-family: 'STIX Two Math', serif;
+  font-strech: expanded;
+}
+
+.circleg {
+  color: green;
+  border-radius: 50%;
+  border: 2px solid green;
+}
