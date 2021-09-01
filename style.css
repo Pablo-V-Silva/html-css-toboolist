@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: grey;
+  background-color: lightgrey;
 }
 
 .banner {
@@ -29,3 +29,41 @@ h1{
 .logo_scrypt {
   display: inline-block;
 }
+
+.main_cont {
+  width: 70%;
+  background-color: white;
+  margin: auto;
+  position: relative;
+  top: 40px;
+}
+
+.m-left {
+  margin-left: 4rem;
+}
+
+.task {
+  color: white;
+  background-color: #47ADF1;
+}
+
+.section {
+  color: #D0D4D8;
+  background-color: #FFFFFF;
+}
+
+.buttons {
+  padding: 1rem;
+}
+
+hr{
+  background-color: lightgrey;
+}
+
+.butt {
+  border-radius: 10px;
+  width: 8rem;
+  height: 2.4rem;
+  font-size: 1.1rem;
+}
+
